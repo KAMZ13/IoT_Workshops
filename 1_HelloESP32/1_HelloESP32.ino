@@ -1,8 +1,8 @@
 #include "WiFi.h"
 //#include "ESP8266WiFi.h"
 // WiFi parameters to be configured
-const char* ssid = "Mi_WiFi";
-const char* password = "Mi_Password";
+const char* ssid = "IZZI-5C74";
+const char* password = "RaD4YaaU";
 void setup(void)
 {
   Serial.begin(115200);
